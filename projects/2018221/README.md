@@ -144,13 +144,16 @@
   Αρχικά έγινε download και εγκατάσταση το Fzf (git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf ~/.fzf/install). 
   
 ### Εκπλήρωση ζητούμενων πέμπτης εργασίας
-* [x] Αρχικά τρέχω την εντολη find, την κανω pipe απο το fzf και αποθηκευω τα αποτελεσματα σε αρχειο (find * -type f | fzf > selected)
+* [x] Αρχικά τρέχω την εντολη find, την κανω pipe απο το fzf και αποθηκευω τα αποτελεσματα σε αρχειο
+  (find * -type f | fzf > selected)
 * [x] Περιήγηση με (CTRL-J / CTRL-K ή CTRL-N / CTRL-P)
 * [x] Στο multi select mode (-m) με χρήση του TAB και Shift-TAB επιλογή πολλαπλών αντικειμένων.
 * [x] Κάνω search
-* [x] Άνοιξα το Fzf χωρίς να είναι full screen με χρήση την εντολής (fzf --height 40%), χρήση της εντολής για να κάνω kill command (kill -9 <TAB>)
+* [x] Άνοιξα το Fzf χωρίς να είναι full screen με χρήση την εντολής (fzf --height 40%)
+* [x] χρήση της εντολής για να κάνω kill command (kill -9 <TAB>)
 * [x] Χρήση του fuzzy completion (ssh **<TAB>)
-* [x] Άνοιξα του shell configuration file  και έκανα τροποποίηση και search του περιεχομένου ενός αρχείου  text (vim /home/lubuntu/.bashrc **<TAB>)
+* [x] Άνοιξα του shell configuration file  και έκανα τροποποίηση και search του περιεχομένου ενός αρχείου  text
+  (vim /home/lubuntu/.bashrc **<TAB>)
 
  
 
