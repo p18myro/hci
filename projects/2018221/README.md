@@ -170,7 +170,7 @@
 ### Τεκμηρίωση ζητουμένων
 #### Σύνδεσμος Παραδοτέου εργασία 6: https://asciinema.org/a/356703
 
-## Εργασία 7: text editor and plug-ins for code highlighting and autocompletion
+## Εργασία 7: Text editor and plug-ins for code highlighting and autocompletion
 
 ### Εκπλήρωση ζητούμενων έβδομης εργασίας
 * [x] Εγκατάσταση το synaptic
